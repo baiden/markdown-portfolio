@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+# List of favourite things
+* Code
+  * Debug
+  * Refactor
+  * Push 
+* Eat
+* Sleep
+
+What are your doing now
+- [x] Coding
+- [ ] Eat
+- [ ] Sleep
